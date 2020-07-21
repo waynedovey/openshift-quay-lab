@@ -1,0 +1,5 @@
+---
+# requirements.yml
+
+- src: https://github.com/waynedovey/config-quay-enterprise.git
+  version: master
